@@ -13,4 +13,12 @@ object main: Tmain
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 20
+  object btn1: TButton
+    Left = 32
+    Top = 448
+    Width = 75
+    Height = 25
+    Caption = 'btn1'
+    TabOrder = 0
+  end
 end
