@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.122,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\PROJEKTY\Adreser\Adreser.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.827,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\PROJEKTY\Adreser\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\PROJEKTY\Adreser\Adreser.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.952,C:\PROJEKTY\Adreser\Unit1.pas=C:\PROJEKTY\Adreser\Umain.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.952,C:\PROJEKTY\Adreser\Unit1.dfm=C:\PROJEKTY\Adreser\Umain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\PROJEKTY\Adreser\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.744,=D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.431,=D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.827,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\PROJEKTY\Adreser\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.932,=D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2019.03.16 22:09:53.105,=C:\PROJEKTY\Adreser\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 22:21:11.680,=C:\PROJEKTY\Adreser\Unit2.pas</Transaction>
+    <Transaction>2019.03.16 22:22:11.240,C:\PROJEKTY\Adreser\Utest2.pas=C:\PROJEKTY\Adreser\Unit2.pas</Transaction>
+    <Transaction>2019.03.16 22:22:11.240,C:\PROJEKTY\Adreser\Utest2.dfm=C:\PROJEKTY\Adreser\Unit2.dfm</Transaction>
   </Transactions>
 </BorlandProject>
