@@ -1,0 +1,14 @@
+program Adreser;
+
+uses
+  Vcl.Forms,
+  Umain in 'Umain.pas' {main};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tmain, main);
+  Application.Run;
+end.
