@@ -21,4 +21,20 @@ object main: Tmain
     Caption = 'btn1'
     TabOrder = 0
   end
+  object btn2: TButton
+    Left = 144
+    Top = 448
+    Width = 75
+    Height = 25
+    Caption = 'btn2'
+    TabOrder = 1
+  end
+  object btn3: TButton
+    Left = 256
+    Top = 448
+    Width = 75
+    Height = 25
+    Caption = 'btn3'
+    TabOrder = 2
+  end
 end

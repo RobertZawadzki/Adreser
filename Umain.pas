@@ -9,6 +9,8 @@ uses
 type
   Tmain = class(TForm)
     btn1: TButton;
+    btn2: TButton;
+    btn3: TButton;
   private
     { Private declarations }
   public
